@@ -75,7 +75,7 @@ Proyek ini dikerjakan secara berkelompok dengan pembagian tanggung jawab berdasa
 | 2 | Wiljarhan | F1G125078 | Scrum Master + Devwlover 1 | Mengelola repository dan proses Scrum serta Mengembangkan fitur tambah tugas. |
 | 3 | Jafar | F1G125034 | Developer 2 | Mengembangkan tampilan aplikasi. |
 | 4 | Awdiyah Suhalia | F1G125003 | Developer 3 | Mengembangkan fitur hapus tugas. |
-| 5 | Luna | F1G125031 | Developer 4 | Mengembangkan fitur hitung jumlah tugas. |
+| 5 | Luna | F1G125010 | Developer 4 | Mengembangkan fitur hitung jumlah tugas. |
 
 **Keterangan:** Pembagian peran disesuaikan dengan kondisi dan kesepakatan anggota kelompok.
 
