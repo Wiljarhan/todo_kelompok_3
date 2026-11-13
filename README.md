@@ -69,14 +69,15 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
 
 Proyek ini dikerjakan secara berkelompok dengan pembagian tanggung jawab berdasarkan peran dalam Scrum.
 
-| No. | Nama Anggota | Peran | Tanggung Jawab |
-|---|---|---|---|
-| 1 | Nama kamu | Product Owner | Menentukan prioritas backlog dan membuat dokumentasi README. |
-| 2 | Nama anggota 2 | Scrum Master | Mengelola repository dan proses Scrum. |
-| 3 | Nama anggota 3 | Developer 1 | Mengembangkan fitur tambah tugas. |
-| 4 | Nama anggota 4 | Developer 2 | Mengembangkan tampilan aplikasi. |
-| 5 | Nama anggota 5 | Developer 3 | Mengembangkan fitur hapus tugas. |
-| 6 | Nama anggota 6 | Developer 4 | Mengembangkan fitur hitung jumlah tugas. |
+| No. | Nama Lengkap | NIM | Peran | Tanggung Jawab |
+|---|---|---|---|---|
+| 1 | Fatihah Maulana | F1G125031 | Product Owner | Menentukan prioritas backlog dan membuat dokumentasi README. |
+| 2 | Wiljarhan | F1G125078 | Scrum Master + Devwlover 1 | Mengelola repository dan proses Scrum serta Mengembangkan fitur tambah tugas. |
+| 3 | Jafar | F1G125034 | Developer 2 | Mengembangkan tampilan aplikasi. |
+| 4 | Awdiyah Suhalia | F1G125003 | Developer 3 | Mengembangkan fitur hapus tugas. |
+| 5 | Luna | F1G125031 | Developer 4 | Mengembangkan fitur hitung jumlah tugas. |
+
+**Keterangan:** Pembagian peran disesuaikan dengan kondisi dan kesepakatan anggota kelompok.
 
 ## 🔄 Metode Pengembangan
 
